@@ -1,6 +1,8 @@
 # Cadasta
 
-Index repository for the Cadasta Foundation. Development occurs in a few other repositories. 
+We’re working to build a future where, through technology and community partnership, land and resource rights are universally recognized and protected.  
+
+Index repository for the Cadasta Foundation. Our main development occurs in a few other repositories. 
 
 * Core Cadasta Platform Development: https://github.com/Cadasta/cadasta-platform
 * django-tutelary, a role based permissions plugin for Django: https://github.com/Cadasta/django-tutelary
